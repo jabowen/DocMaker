@@ -1,0 +1,2 @@
+#1-test with varaible {varName}
+#2-test without variable

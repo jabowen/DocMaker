@@ -1,0 +1,6 @@
+[test.txt]
+Word?:y
+Doc Name:TestDoc
+Title:Test Document
+test.txt:1
+varName:Filled
